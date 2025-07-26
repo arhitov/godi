@@ -1,4 +1,4 @@
-module github.com/arhitov/pkg-dolang-di
+module github.com/arhitov/pkgdi
 
 go 1.24.4
 
