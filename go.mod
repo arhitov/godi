@@ -1,4 +1,4 @@
-module github.com/arhitov/pkgdi
+module github.com/arhitov/godi
 
 go 1.24.4
 
